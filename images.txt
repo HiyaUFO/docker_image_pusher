@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 apache/rocketmq:5.3.0
 alpine
+python
